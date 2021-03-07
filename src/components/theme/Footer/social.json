@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Github",
+    "link": "https://github.com/kelvin-c-web/ck-portfolio",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 2,
+    "name": "StackOverflow",
+    "link": "https://stackoverflow.com/users/11453767/kelvin-chukwu",
+    "icon": "/icons/stackoverflow.svg"
+  }
+]
